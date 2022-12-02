@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Who are we?"
+title: "Home"
 ---
 
 Reframing Our Language Experience (ROLE): A consortium of scholars working against essentialist notions of language in policy and practice, within academia and beyond
