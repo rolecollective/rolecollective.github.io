@@ -1,25 +1,12 @@
 ---
-title: "Welcome to Jekyll"
+title: "Welcome to the ROLE Collective"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Reframing Our Language Experience (ROLE): A consortium of scholars working against essentialist notions of language in policy and practice, within academia and beyond
 
+This cross-institutional transdisciplinary group seeks to work towards concrete policy changes in research by (a) bringing together evidence that taking essentialist approaches to language enacts harm, (b) supporting each other to advocate for and implement policy changes across institutional and disciplinary spaces, and (c) demonstrating scholarly consensus within linguistics and language research. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We want to work towards changing assumptions about language and identity by changing how these assumptions are encoded in institutional policies and practices. 
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Following (Rickford & King, Charity Hudley et al, etc), we seek to focus our scholarly energies on enacting changes in the spaces where we have influence, and expanding our reach. Inspired by the cross-institutional approach of ManyBabies, we find strength in collaboration, and know that a multi-pronged approach is necessary to enact structural and cultural change. Along with producing works which can be categorized as scholarly in a traditional manner (link to a page with relevant academic articles on this topic), this group seeks to create persuasive policy writings and support collaborators who are trying to make change in their own disciplinary and institutional spaces.   
