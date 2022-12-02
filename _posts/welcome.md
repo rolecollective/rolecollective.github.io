@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the ROLE Collective"
-layout: post
+layout: home
 ---
 
 Reframing Our Language Experience (ROLE): A consortium of scholars working against essentialist notions of language in policy and practice, within academia and beyond
