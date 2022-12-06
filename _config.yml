@@ -17,7 +17,8 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {file: "README.md", title: "About Us"}
+  - {title: "Join Us", url: "https://docs.google.com/forms/d/e/1FAIpQLSdLTW5-pOeImube-nGj2AieVYGosdUfb5BbzA9ov8xQjAAMIw/viewform?usp=sf_link"}
+ 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rolecollective@gmail.com"}
