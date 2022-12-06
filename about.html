@@ -1,0 +1,10 @@
+---
+layout: default
+title: "About"
+---
+
+{% if site.show_excerpts %}
+  {% include about.html %}
+{% else %}
+  {% include about.md title="Posts" %}
+{% endif %}
