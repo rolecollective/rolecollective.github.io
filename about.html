@@ -4,7 +4,8 @@ title: "About"
 ---
 
 {% if site.show_excerpts %}
-  {% include about.html %}
+  {% include about.md %}
 {% else %}
-  {% include about.md title="Posts" %}
+  {% include archive.html title="Posts" %}
 {% endif %}
+
