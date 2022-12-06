@@ -1,6 +1,6 @@
 ---
-title: "Readme"
-permalin: /about/
+title: "About"
+permalin:"/about/"
 layout: page
 ---
 
