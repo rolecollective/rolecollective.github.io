@@ -11,6 +11,6 @@ We want to work towards changing assumptions about language and identity by chan
 
 Following (Rickford & King, Charity Hudley et al, etc), we seek to focus our scholarly energies on enacting changes in the spaces where we have influence, and expanding our reach. Inspired by the cross-institutional approach of ManyBabies, we find strength in collaboration, and know that a multi-pronged approach is necessary to enact structural and cultural change. Along with producing works which can be categorized as scholarly in a traditional manner, this group seeks to create persuasive policy writings and support collaborators who are trying to make change in their own disciplinary and institutional spaces.
 
-The ROLE collective was established by [Dr. Savithry Namboodiripad] (http://savi.ling.lsa.umich.edu/) and [Dr. Ethan Kutlu] (https://ethankutlu.com) in 2022.
+The ROLE collective was established by [Dr. Savithry Namboodiripad](http://savi.ling.lsa.umich.edu/) and [Dr. Ethan Kutlu](https://ethankutlu.com) in 2022.
 
 
