@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Resources"
+---
+
+{% if site.show_excerpts %}
+  {% include resources.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
