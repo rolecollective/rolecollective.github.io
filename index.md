@@ -14,7 +14,8 @@ Following ([Rickford & King, 2016](https://www.jstor.org/stable/44164130), [Char
 The ROLE collective was established by [Dr. Savithry Namboodiripad](http://savi.ling.lsa.umich.edu/) and [Dr. Ethan Kutlu](https://ethankutlu.com) in 2022.
 
 
-[c6258e88-c0bd-4c9c-bbbe-b7b472696230.pdf](https://github.com/rolecollective/rolecollective.github.io/files/10316951/c6258e88-c0bd-4c9c-bbbe-b7b472696230.pdf)
+[c6258e88-c0bd-4c9c-bbbe-b7b472696230.pdf](https://github.com/rolecollective/rolecollective.github.io/files/10317003/c6258e88-c0bd-4c9c-bbbe-b7b472696230.pdf)
+
 
 
 **Step 1: Check our language**
