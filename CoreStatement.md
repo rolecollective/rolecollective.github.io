@@ -22,6 +22,7 @@ If you are interested in learning or doing more, here are some steps that you ca
 What theoretical and practical moves which have been proposed across disciplines of language research? How might these apply to my research and practice?
 
 THINGS TO THINK ABOUT: 
+
 What assumptions about language am I invoking, either explicitly or implicitly, in how I construct my research questions and analyses or assess my students'/colleagues' language use? 
 How is my sense of myself tied to how I use language? 
 How can we all apply institutional memory to build bridges and promote linguistic justice?
@@ -29,7 +30,9 @@ How does equity shape our best practices as scholars & educators?
 How can we all safely & completely actualize self more often?
 
 THINGS TO DO:
+
 What changes can I make in the areas in which I have influence, whether that is in how I do my research, how I engage with the public, how and what I teach, or how I review/edit the work of others? 
+
 [Collect rich information about study participants’ language backgrounds](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.715843/full).
 
 
