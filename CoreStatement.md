@@ -1,6 +1,6 @@
 ---
 layout: title
-title: "Core Statement"
+page: "Core Statement"
 ---
 
 Who counts as a “native speaker” or “native signer” of a language? We all have intuitions about what types of language experience, behavior, and identity might be relevant to categorize someone as being “native.” However, when we start digging deeper into how this term is applied, both within and outside of research contexts, confusing contradictions and pseudoscientific assumptions emerge. How we categorize people and their language(s) can have serious ramifications, and it is long past time for language researchers to come together to advocate for more accurate, humane, and just characterizations.  
