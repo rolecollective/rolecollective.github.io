@@ -19,5 +19,6 @@ Dr. Kamran Khan
 Dr. Evan Kidd 
 Dr. Wesley Leonard 
 Dr. Vijay Ramjattan
+<span style="font-size:0.5em;">Please use this link: https://forms.gle/CNffsAbqvoshgPCu9 to submit your abstract.</span>
 
 
