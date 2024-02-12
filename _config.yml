@@ -17,11 +17,12 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {title: "RoleSymposium.md"
+  - {file: "RoleSymposium.md", title: "First ROLE Symposium"}
   - {title: "Join Us", url: "https://docs.google.com/forms/d/e/1FAIpQLSdLTW5-pOeImube-nGj2AieVYGosdUfb5BbzA9ov8xQjAAMIw/viewform?usp=sf_link"}
-  - {title: "Contribute", url: "https://forms.gle/8v8Pc1eAqN8d7BzF8"}
-  - {file: "resources.md"} 
   - {file: "CoreStatement.md"} 
+ # - {title: "Contribute", url: "https://forms.gle/8v8Pc1eAqN8d7BzF8"}
+  - {file: "resources.md"} 
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rolecollective@gmail.com"}
