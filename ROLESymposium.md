@@ -12,13 +12,13 @@ Our goal is to challenge harmful linguistic ideologies and advocate for practica
 Join us in this significant endeavor to reshape the landscape of linguistics and foster a more inclusive and just approach to language study and application.
 
 We are happy to confirm the following scholars as our presenters (in alphabetical order):
-Dr. Rachel Hayes-Harb 
-Dr. Yolanda Holt 
-Dr. Lina Hou
-Dr. Kamran Khan 
-Dr. Evan Kidd 
-Dr. Wesley Leonard 
-Dr. Vijay Ramjattan
+1. Dr. Rachel Hayes-Harb 
+2. Dr. Yolanda Holt 
+3. Dr. Lina Hou
+4. Dr. Kamran Khan 
+5. Dr. Evan Kidd 
+6. Dr. Wesley Leonard 
+7. Dr. Vijay Ramjattan
 <span style="font-size:0.5em;">Please use this link: https://forms.gle/CNffsAbqvoshgPCu9 to submit your abstract.</span>
 
 
