@@ -21,6 +21,6 @@ We are happy to confirm the following scholars as our presenters (in alphabetica
 7. Dr. Vijay Ramjattan
 
    
-<span style="font-size:1em;">Please use this link: https://forms.gle/CNffsAbqvoshgPCu9 to submit your abstract.</span>
+<span style="font-size:1.5em;">Please use this link: https://forms.gle/CNffsAbqvoshgPCu9 to submit your abstract.</span>
 
 
