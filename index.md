@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-Reframing Our Language Experience (ROLE): A consortium of scholars working against essentialist notions of language in policy and practice, within academia and beyond
+Reframing Our Language Experience (ROLE): A consortium of scholars working against essentialist notions of language in policy and practice, within academia and beyond.
 
 This cross-institutional transdisciplinary group seeks to work towards concrete policy changes in research by (a) bringing together evidence that taking essentialist approaches to language enacts harm, (b) supporting each other to advocate for and implement policy changes across institutional and disciplinary spaces, and (c) demonstrating scholarly consensus within linguistics and language research.
 
