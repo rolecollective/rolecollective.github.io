@@ -19,6 +19,6 @@ We are happy to confirm the following scholars as our presenters (in alphabetica
 5. Dr. Evan Kidd 
 6. Dr. Wesley Leonard 
 7. Dr. Vijay Ramjattan
-<span style="font-size:8em;">Please use this link: https://forms.gle/CNffsAbqvoshgPCu9 to submit your abstract.</span>
+<span style="font-size:2em;">Please use this link: https://forms.gle/CNffsAbqvoshgPCu9 to submit your abstract.</span>
 
 
