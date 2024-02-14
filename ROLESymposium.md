@@ -21,6 +21,6 @@ We are happy to confirm the following scholars as our presenters (in alphabetica
 7. Dr. Vijay Ramjattan
 
    
-<span style="font-size:1.5em;">Please click here to [apply](https://forms.gle/CNffsAbqvoshgPCu9).</span>
+<span style="font-size:1.5em;">Please click here to [apply](https://uiowa.qualtrics.com/jfe/form/SV_8ABXmEpwD3IDmS2).</span>
 
 
