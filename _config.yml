@@ -18,6 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "ROLESymposium.md"} 
+  - {title: "Call for ROLE Symposium Submissions", url: "https://uiowa.qualtrics.com/jfe/form/SV_8ABXmEpwD3IDmS2"}
   - {title: "Join Us", url: "https://docs.google.com/forms/d/e/1FAIpQLSdLTW5-pOeImube-nGj2AieVYGosdUfb5BbzA9ov8xQjAAMIw/viewform?usp=sf_link"}
   - {file: "CoreStatement.md"} 
  # - {title: "Contribute", url: "https://forms.gle/8v8Pc1eAqN8d7BzF8"}
