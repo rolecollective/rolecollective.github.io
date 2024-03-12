@@ -22,6 +22,29 @@ We are happy to confirm the following scholars as our presenters (in alphabetica
 6. Dr. Wesley Leonard 
 7. Dr. Vijay Ramjattan
 
+Symposium Day 1 Schedule (All times in CST)
+
+9:00  - 9:15  AM 	 Introduction by Ethan and Savi 
+9:20  - 9:50  AM   Talk 1 by Dr. Kamran Khan
+9:50  - 10:05 AM   Q&A	
+10:10 - 10:40 AM   Talk 2 by Dr. Yolanda Holt
+10:40 - 10:55 AM   Q&A	
+11:00 - 11:30 AM   Talk 3 by Dr. Rachel Hayes-Harb
+11:30 - 11:45 AM   Q&A	
+11:45 - 12:15 PM   BREAK
+12:15 - 12:45 PM   Talk 4 by Dr. Vijay Ramjattan
+12:45 - 13:00 PM	 Q&A	
+13:05 - 13:35 PM	 Talk 5	Dr. Lina Hou
+13:35 - 13:50 PM   Q&A	
+13:55 - 14:25 PM   BREAK
+14:30 - 15:00 PM   Talk 6 	Dr. Wesley Leonard
+15:00 - 15:15 PM   Q&A	
+15:20 - 16:20 PM   5-minute talks 
+16:20 - 17:20 PM   BREAK	
+17:30 - 18:00 PM	 Talk 7	Dr. Evan Kidd
+18:00 - 18:15 PM   Q&A	
+18:15 - 18:20 PM   Ending remarks 	
+
    
 
 
