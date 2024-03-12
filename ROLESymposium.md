@@ -22,7 +22,7 @@ We are happy to confirm the following scholars as our presenters (in alphabetica
 6. Dr. Wesley Leonard 
 7. Dr. Vijay Ramjattan
 
-Symposium Day 1 Schedule (All times in CST)
+Symposium Day 1 Schedule (All times are in CST)
 | Time  | Topic |
 | ---   | ---   |
 |9:00  - 9:15  AM |	 Introduction by Ethan and Savi |
