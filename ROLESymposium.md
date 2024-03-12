@@ -24,7 +24,7 @@ We are happy to confirm the following scholars as our presenters (in alphabetica
 
 Symposium Day 1 Schedule (All times in CST)
 | Time  | Topic |
-| --- | ---|
+| ---   | ---   |
 |9:00  - 9:15  AM |	 Introduction by Ethan and Savi |
 |9:20  - 9:50  AM |   Talk 1 by Dr. Kamran Khan|
 |9:50  - 10:05 AM |  Q&A	|
