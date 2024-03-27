@@ -23,6 +23,8 @@ We are happy to confirm the following scholars as our presenters (in alphabetica
 7. Dr. Vijay Ramjattan
 
 Symposium Day 1 Schedule (All times are in CST)
+**There will be ASL interpreters and live captioning throughout the whole symposium. **
+
 | Time  | Topic |
 | ---   | ---   |
 |9:00  - 9:15  AM |	 Introduction by Ethan and Savi |
