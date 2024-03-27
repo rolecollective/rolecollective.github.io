@@ -22,8 +22,9 @@ We are happy to confirm the following scholars as our presenters (in alphabetica
 6. Dr. Wesley Leonard 
 7. Dr. Vijay Ramjattan
 
+There will be ASL interpreters and live captioning throughout the whole symposium.
+
 Symposium Day 1 Schedule (All times are in CST)
-**There will be ASL interpreters and live captioning throughout the whole symposium. **
 
 | Time  | Topic |
 | ---   | ---   |
