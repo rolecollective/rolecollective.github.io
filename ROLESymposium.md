@@ -49,7 +49,8 @@ Symposium Day 1 Schedule (All times are in CST)
 |18:00 - 18:15 PM |  Q&A	|
 |18:15 - 18:20 PM |  Ending remarks 	|
 
-   
+ ![ROLE announcement](https://github.com/rolecollective/rolecollective.github.io/assets/119703369/ca996cd0-835f-4c21-9f1c-65d1bcc59905)
+
 
 
 
