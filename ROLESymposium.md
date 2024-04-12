@@ -3,7 +3,8 @@ layout: page
 title: "First ROLE Symposium"
 ---
 
-<span style="font-size:1.5em;">[Program Booklet]([ROLE Symposium Program.pdf](https://github.com/rolecollective/rolecollective.github.io/files/14953312/ROLE.Symposium.Program.pdf)) to register for the conference.</span>
+[ROLE Symposium Program.pdf](https://github.com/rolecollective/rolecollective.github.io/files/14953320/ROLE.Symposium.Program.pdf)
+
 We are pleased to announce the very first conference for the Reframing Our Language Experience (ROLE) Collective, taking place online on April 12 and April 19, 2024. This pioneering event is hosted by the University of Michigan, Ann Arbor, and the University of Iowa, marking the official launch of the ROLE Collective. Established in 2022 by Dr. Savithry Namboodiripad and Dr. Ethan Kutlu, the ROLE Collective aims to bring together researchers, clinicians, policy makers, and educators in addressing and moving beyond the linguistic injustices perpetuated particularly by native speaker ideologies. 
 
 <span style="font-size:1.5em;">Please click [here](https://uiowa.zoom.us/meeting/register/tJAkdO6orTouHNUhOKAhD6MCXGLFIC9s9kDW#/registration) to register for the conference.</span>
