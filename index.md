@@ -2,6 +2,8 @@
 layout: page
 title: "Home"
 ---
+**This website is no longer being updated as of October 2024. Visit the new ROLE Collective website at www.rolecollective.org.**
+
 
 Reframing Our Language Experience (ROLE): A consortium of scholars working against essentialist notions of language in policy and practice, within academia and beyond.
 
